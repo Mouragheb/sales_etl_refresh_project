@@ -61,6 +61,28 @@ sales_etl_refresh_project/
    Inserted 3 rows into 'sales' table.   
 
 
+## Project Screenshots
+
+1. ETL Script & Terminal Output
+
+Shows the main sales_etl.py pipeline and successful ETL run.
+
+2. Table Schema in PostgreSQL
+
+Describes the structure of the sales table.
+
+3. Data in Sales Table (SELECT)
+
+Displays a sample query result from the sales table.
+
+4. Row Count in Sales Table
+
+Verifies data insertion using row count.
+
+5. Sales by Region (Grouped Query)
+
+Shows a query grouping total sales by region.
+
 ## Author
 Moustafa Ragheb
 GitHub: @Mouragheb     
